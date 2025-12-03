@@ -20,6 +20,7 @@ today = ["chrono"]
 test_lib = []
 
 [dependencies]
+aoc-parse = "0.2.18"
 
 # Template dependencies
 chrono = { version = "0.4.38", optional = true }
